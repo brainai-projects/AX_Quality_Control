@@ -3,8 +3,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vdhCVePGLmM?si=3P51UktEDRbfSN2T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-[프로젝트 데모 영상](http://img.youtube.com/vi/vdhCVePGLmM/0.jpg)
-[링크](https://www.youtube.com/watch?v=vdhCVePGLmM)
+[![프로젝트 데모 영상](http://img.youtube.com/vi/vdhCVePGLmM/0.jpg)](https://www.youtube.com/watch?v=vdhCVePGLmM)
 
 
 # AX_Quality_Control
