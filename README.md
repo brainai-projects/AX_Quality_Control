@@ -1,8 +1,11 @@
 # 세상을 움직이는 철은 어떻게 만들까?
 
-
+- 철이 생산되는 과정을 알아봅시다.
 [![세상을 움직이는 철은 어떻게 만들까?](http://img.youtube.com/vi/vdhCVePGLmM/0.jpg)](https://www.youtube.com/watch?v=vdhCVePGLmM) 
 [![How steel is made Video](http://img.youtube.com/vi/xejnSzbFMQA/0.jpg)](https://www.youtube.com/watch?v=xejnSzbFMQA)
+
+- 철 생산과정에서 생길 수 있는 표면 결함을 찾아내는 방법에 대해 알아봅시다.
+[![SMASH - 홀과 스팟을 완벽하게 구별하는 표면 결함 검사](http://img.youtube.com/vi/X5Mw69IGaj8/0.jpg)](https://www.youtube.com/watch?v=X5Mw69IGaj8)
 
 
 # AX_Quality_Control
