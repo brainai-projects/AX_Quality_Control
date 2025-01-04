@@ -13,7 +13,7 @@
 # AX_Quality_Control
 
 1. Dataset: https://www.kaggle.com/datasets/zhangyunsheng/defects-class-and-location
-
+<a href="https://www.kaggle.com/datasets/zhangyunsheng/defects-class-and-location" target="_blank">Defects location for metal surface</a>
 
 # Git 사용관련 
 ## create a new repository on the command line
