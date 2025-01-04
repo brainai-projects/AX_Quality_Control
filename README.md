@@ -2,8 +2,8 @@
 
 - 철이 생산되는 과정을 알아봅시다.
 
-[![세상을 움직이는 철은 어떻게 만들까?](http://img.youtube.com/vi/vdhCVePGLmM/0.jpg)](https://www.youtube.com/watch?v=vdhCVePGLmM) 
-[![How steel is made Video](http://img.youtube.com/vi/xejnSzbFMQA/0.jpg)](https://www.youtube.com/watch?v=xejnSzbFMQA)
+![세상을 움직이는 철은 어떻게 만들까?](http://img.youtube.com/vi/vdhCVePGLmM/0.jpg)](https://www.youtube.com/watch?v=vdhCVePGLmM) 
+![How steel is made Video](http://img.youtube.com/vi/xejnSzbFMQA/0.jpg)](https://www.youtube.com/watch?v=xejnSzbFMQA)
 
 - 철 생산과정에서 생길 수 있는 표면 결함을 찾아내는 방법에 대해 알아봅시다.
 
@@ -14,7 +14,7 @@
 
 ![LYNMP 로고](https://i.esdrop.com/d/dLd7n17hg9.png "LYMNP 로고")
 
-[GC10-DET-Metalic-Surface_Defect-Datasets](https://github.com/lvxiaoming2019/GC10-DET-Metallic-Surface-Defect-Datasets/blob/master/defects%20examples.png)
+![GC10-DET-Metalic-Surface_Defect-Datasets](https://github.com/lvxiaoming2019/GC10-DET-Metallic-Surface-Defect-Datasets/blob/master/defects%20examples.png)
 
 1. Dataset: https://www.kaggle.com/datasets/zhangyunsheng/defects-class-and-location
 2. [Kaggle Dataset: Defects location for metal surface](https://www.kaggle.com/datasets/zhangyunsheng/defects-class-and-location)
