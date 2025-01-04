@@ -11,8 +11,7 @@
 
 
 # AX_Quality_Control
-
-![LYNMP 로고](https://i.esdrop.com/d/dLd7n17hg9.png "LYMNP 로고")
+- 강철 표면 결함에 대해 알아봅시다.
 
 ![GC10-DET-Metalic-Surface_Defect-Datasets](https://github.com/lvxiaoming2019/GC10-DET-Metallic-Surface-Defect-Datasets/blob/master/defects%20examples.png)
 
