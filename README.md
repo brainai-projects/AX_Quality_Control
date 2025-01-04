@@ -12,6 +12,8 @@
 
 # AX_Quality_Control
 
+[GC10-DET-Metalic-Surface_Defects](https://github.com/lvxiaoming2019/GC10-DET-Metallic-Surface-Defect-Datasets/blob/master/defects%20examples.png)
+
 1. Dataset: https://www.kaggle.com/datasets/zhangyunsheng/defects-class-and-location
 2. [Kaggle Dataset: Defects location for metal surface](https://www.kaggle.com/datasets/zhangyunsheng/defects-class-and-location)
 
