@@ -12,6 +12,10 @@
 
 # AX_Quality_Control
 
+1. Dataset: https://www.kaggle.com/datasets/zhangyunsheng/defects-class-and-location
+
+
+# Git 사용관련 
 ## create a new repository on the command line
 
 ```
